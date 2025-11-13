@@ -59,3 +59,28 @@ If you’d like to add new features (like levels, speed control, or themes), fee
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+---
+##🧩 Gameplay Features
+
+Speed Increase Over Time – Snake moves faster as the score increases.
+
+Levels or Stages – Unlock new backgrounds or speeds after reaching certain scores.
+
+Obstacles / Walls – Add barriers that the snake must avoid.
+
+Power-ups / Bonuses –
+
+🧡 Extra Life
+
+⚡ Slow Motion
+
+💎 Double Points
+
+Multiple Food Types – Different colors = different point values.
+
+Teleport Portals – Enter one portal and come out from another side.
+
+Snake Growth Effects – Add smooth animation or glowing effects when the snake eats food.
+
+Custom Snake Skins – Choose colors or textures for the snake.
+
