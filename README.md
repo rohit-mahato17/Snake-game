@@ -83,4 +83,17 @@ Teleport Portals – Enter one portal and come out from another side.
 Snake Growth Effects – Add smooth animation or glowing effects when the snake eats food.
 
 Custom Snake Skins – Choose colors or textures for the snake.
+---
+🎮 User Experience Features
 
+Pause & Resume Game (using Spacebar or P key)
+
+Sound Effects & Background Music
+
+Leaderboard / High Score Storage (using localStorage)
+
+Theme Modes – Light & Dark mode 🎨
+
+Vibration Feedback (for mobile version)
+
+Countdown Before Start – A “3…2…1…Go!” before the snake moves.
